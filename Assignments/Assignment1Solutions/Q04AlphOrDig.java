@@ -2,7 +2,7 @@ package Assignments.Assignment1Solutions;
 
 import java.util.Scanner;
 
-public class Q4AlphOrDig {
+public class Q04AlphOrDig {
   public static void main(String[] args) {
     System.out.println("Enter a character: ");
     Scanner sc = new Scanner(System.in);
